@@ -1,0 +1,19 @@
+# 환경변수 (API 키)
+.env
+
+# 산출물
+output/
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
